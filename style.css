@@ -144,7 +144,7 @@ button{
 @media (min-width: 768px){
     body{
         background-color: var(--Very-Dark-Blue);
-        background-image: url(./fylo-data-storage-component-master/images/bg-desktop.png);
+        background-image: url(./images/bg-desktop.png);
         background-repeat: no-repeat;
         background-size: 100%  320px;
         background-position: bottom;
